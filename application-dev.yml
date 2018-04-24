@@ -2,9 +2,6 @@ server:
   port: 9871
 logging:
   level: debug
-management:
-  security:
-    enabled: false
 ministryTrasnport:
   connect:
     host: 114.242.105.172
